@@ -50,3 +50,22 @@
 </div>
 
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=jeffrocha)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
+
+
+  
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffrocha&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffrocha&theme=2077"/></td></tr></table>
+<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffrocha&theme=2077"/></td>
+<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffrocha&theme=2077"/></td></tr></table>
+
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=jeffrocha&theme=react-dark)](https://github.com/jeffrocha/github-readme-activity-graph)  
+
+</br>
+</details>
+
+
+<img width=100% title="rodape" alt="jef" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Fortis-Fortuna-Adiuvat&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
