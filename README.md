@@ -69,3 +69,5 @@
 
 <img width=100% title="rodape" alt="jef" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Fortis-Fortuna-Adiuvat&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
+ <img height="400" width="3000" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
+
