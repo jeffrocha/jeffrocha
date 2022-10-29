@@ -41,6 +41,9 @@
   <a href="https://www.linkedin.com/in/jefferson-rocha-silva-995a377b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jeff.r.silva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<p align="center"> Contagem de acessos ao perfil
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jeffrocha/count.svg" /></p>
+
 
 <div align="center">
 
