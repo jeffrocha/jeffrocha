@@ -12,11 +12,9 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/jeffrocha">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffrocha&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrocha&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div align="center" style="display: inline_block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffrocha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrocha&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="center" valign="top"><br>
