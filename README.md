@@ -13,9 +13,9 @@
 </div>
 
 <div align="center" style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffrocha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrocha&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffrocha&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffrocha&theme=2077"/></td></tr></table>
+
 
 <div align="center" valign="top"><br>
   
@@ -54,12 +54,6 @@
 
 
 
-
-  
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffrocha&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffrocha&theme=2077"/></td></tr></table>
-<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffrocha&theme=2077"/></td>
-<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffrocha&theme=2077"/></td></tr></table>
 
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=jeffrocha&theme=react-dark)](https://github.com/jeffrocha/github-readme-activity-graph)  
 
